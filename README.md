@@ -13,3 +13,6 @@ __
 
 ![image](https://github.com/user-attachments/assets/57f56b1f-7102-435d-9653-bc14058b743e)
 
+This is the last date I modified this assignment.
+
+![kyrie clicker date modified](https://github.com/user-attachments/assets/f3bb8769-df68-4382-aaf6-dedd4457d4c4)
